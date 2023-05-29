@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Ignore CMake build files
+build/
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Makefile
+
+# Ignore CMake generated project files
+*.cmake
+*.vcxproj
+*.xcodeproj
