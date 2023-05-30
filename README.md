@@ -1,2 +1,3 @@
 # CProject
- A repository for basic C projects.
+
+A repository for learning C and C++ projects.
